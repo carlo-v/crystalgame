@@ -1,3 +1,5 @@
+
+
 .jumbotron {
   background-image: url("../images/backgroundimage.jpg");
   background-size: cover;
@@ -6,8 +8,8 @@
 
 .jumbotron h1 {
   color: rgb(255, 255, 255);
-  
-}
+
+  }
 
 .instructions {
   text-align: center; 
