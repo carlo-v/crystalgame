@@ -1,13 +1,12 @@
 .jumbotron {
-  background-image: url("../images/jumbotron-bg.jpg");
+  background-image: url("../images/backgroundimage.jpg");
   background-size: cover;
   
 }
 
 .jumbotron h1 {
-  color: #000;
-  text-shadow: 3px 3px #fff;
-
+  color: rgb(255, 255, 255);
+  
 }
 
 .instructions {
